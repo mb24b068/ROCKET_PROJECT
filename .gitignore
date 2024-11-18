@@ -1,0 +1,10 @@
+# MATLAB temporary files
+*.asv
+*.mdl
+*.slx
+*.log
+*.mat
+
+# Backup files
+*~
+*.bak
